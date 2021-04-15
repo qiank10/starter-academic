@@ -5,10 +5,9 @@ item:
   - description: 2019
     title: Outstanding Postgraduate of Beijing
     url: ""
-    
 widget_id: awards
 headless: true
-weight: 40
+weight: 50
 title: Awards
 subtitle: null
 design:
