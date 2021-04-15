@@ -24,7 +24,7 @@ tags:
 draft: false
 featured: false
 
-url_pdf: '/publication/ubicomp21millipoint/qian2021millipoint.pdf'
+url_pdf: '/uploads/UbiComp21_MilliPoint_paper.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
