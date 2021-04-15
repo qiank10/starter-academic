@@ -2,8 +2,7 @@
 widget: accomplishments
 date_format: Jan 2006
 item:
-  - description: 2019
-    title: Outstanding Postgraduate of Beijing
+  - title: Outstanding Postgraduate of Beijing
     url: ""
 widget_id: awards
 headless: true
