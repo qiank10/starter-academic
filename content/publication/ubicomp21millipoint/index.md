@@ -1,5 +1,5 @@
 ---
-title: UbiComp21MilliPoint
+title: 3D Point Cloud Generation with Millimeter-Wave Radar
 
 authors:
 - Kun Qian
