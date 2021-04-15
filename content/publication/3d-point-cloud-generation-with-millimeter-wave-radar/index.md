@@ -6,7 +6,8 @@ authors:
   - Kun Qian
   - Zhaoyuan He
   - Xinyu Zhang
-publication: ACM IMWUT/UbiComp'21
+date: "2021-09-11T00:00:00Z"
+publication: In ACM IMWUT/UbiComp
 draft: false
 featured: false
 image:
