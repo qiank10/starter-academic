@@ -14,5 +14,4 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2021-04-15T21:16:03.082Z
 ---
