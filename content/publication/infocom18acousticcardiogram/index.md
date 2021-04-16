@@ -45,3 +45,4 @@ image:
 projects:
 - human-oriented-wireless-sensing
 ---
+<span style="color:red"><strong>Best-in-Session Presentation Award, 1 out of 4</strong></span>
