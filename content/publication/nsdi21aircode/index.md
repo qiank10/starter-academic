@@ -33,7 +33,7 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: 'https://www.dropbox.com/s/n6y3q5s7mmypenz/NSDI21_AirCode_slides.pptx?dl=0'
+url_slides: ''
 url_source: ''
 url_video: ''
 
