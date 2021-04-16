@@ -36,6 +36,7 @@ url_source: ''
 url_video: ''
 
 image:
+  caption: "Performance overview of MVDNet."
   filename: featured
   focal_point: Smart
   preview_only: false
