@@ -44,3 +44,4 @@ image:
 projects:
 - human-oriented-wireless-sensing
 ---
+<span style="color:red"><strong>Honorable Mention Award, top 5% submission</strong></span>. 
