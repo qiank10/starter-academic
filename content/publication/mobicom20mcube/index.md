@@ -1,5 +1,5 @@
 ---
-title: M-Cube: A Millimeter-Wave Massive MIMO Software Radio
+title: "M-Cube: A Millimeter-Wave Massive MIMO Software Radio"
 
 authors:
 - Renjie Zhao
