@@ -26,7 +26,7 @@ tags:
 draft: false
 featured: false
 
-url_pdf: '/uploads/CVPR21_MVDNet_paper.pdf'
+url_pdf: 'https://www.dropbox.com/s/gl8mveo1i8w9re9/CVPR21_MVDNet_paper.pdf?dl=0'
 url_code: 'https://github.com/qiank10/MVDNet'
 url_dataset: 'https://github.com/qiank10/MVDNet'
 url_poster: ''
