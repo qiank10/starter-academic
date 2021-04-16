@@ -39,3 +39,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
+<span style="color:red"><strong>Best Paper Award, 2 out of 384 submissions</strong></span>
