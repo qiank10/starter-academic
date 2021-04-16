@@ -39,4 +39,7 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
+
+projects
+- human-oriented-wireless-sensing
 ---
