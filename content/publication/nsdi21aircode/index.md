@@ -38,6 +38,7 @@ url_source: ''
 url_video: ''
 
 image:
+  caption: "System overview of AIRCODE. The monitor displays a video with embedded data in raw video frames, and metadata (control information) in raw audio signals. The phone records the video, then detects screen in camera images to equalize distorted video frames, decodes metadata from audio signals, and finally decodes data embedded in video."
   filename: featured
   focal_point: Smart
   preview_only: false
