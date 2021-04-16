@@ -35,6 +35,7 @@ url_source: ''
 url_video: ''
 
 image:
+  caption: "Case study of MilliPoint."
   filename: featured
   focal_point: Smart
   preview_only: false
