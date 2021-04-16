@@ -13,7 +13,7 @@ date: 2018-08-01T00:00:00.000Z
 doi: ""
 
 publication_types:
-  - "1"
+  - "2"
 
 publication: In IEEE Transactions on Mobile Computing
 publication_short: In IEEE TMC
