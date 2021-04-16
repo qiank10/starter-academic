@@ -40,6 +40,6 @@ image:
   focal_point: Smart
   preview_only: false
 
-project:
+projects:
 - radar-based-autonomous-sensing
 ---
