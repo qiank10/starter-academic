@@ -1,5 +1,5 @@
 ---
-title: Robust Multimodal Vehicle Detection in Foggy Weather using Complementary Lidar and Radar Signals
+title: AIRCODE&#58; Hidden Screen-Camera Communication on an Invisible and Inaudible Dual Channel
 
 authors:
 - Kun Qian
