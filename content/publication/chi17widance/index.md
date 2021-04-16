@@ -36,7 +36,7 @@ url_source: ''
 url_video: 'https://www.youtube.com/watch?v=-Snenj43hKA'
 
 image:
-  caption: "System overview of AIRCODE."
+  caption: "The HCI interface of WiDance."
   filename: featured
   focal_point: Smart
   preview_only: false
