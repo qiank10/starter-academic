@@ -2,7 +2,6 @@
 title: Radar-Based Autonomous Sensing
 
 tags:
-  - "Wireless Sensing"
 
 date: 2021-04-16T22:25:22.362Z
 
