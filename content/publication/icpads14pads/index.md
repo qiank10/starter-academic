@@ -43,4 +43,4 @@ image:
 projects:
 - human-oriented-wireless-sensing
 ---
-<span style="color:red"><strong>Best Paper Candidate, 4 out of 322</strong></span>. 
+<span style="color:red"><strong>Best Paper Candidate, 4 out of 322</strong></span>
