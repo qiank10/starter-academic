@@ -25,7 +25,7 @@ tags:
 draft: false
 featured: false
 
-url_pdf: '/uploads/UbiComp21_MilliPoint_paper.pdf'
+url_pdf: 'https://www.dropbox.com/s/eonykw3mu91j5rf/UbiComp21_MilliPoint_paper.pdf?dl=0'
 url_code: ''
 url_dataset: ''
 url_poster: ''
