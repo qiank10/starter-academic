@@ -34,6 +34,7 @@ url_source: ''
 url_video: ''
 
 image:
+  caption: Prototype of MCube.
   filename: featured
   focal_point: Smart
   preview_only: false
