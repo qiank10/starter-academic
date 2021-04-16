@@ -18,7 +18,7 @@ publication_types:
 publication: ACM Transactions on Embedded Computing Systems
 publication_short: In ACM TECS
 
-abstract: 'Extended journal version of [PADS](/publication/icpads14pads/)'
+abstract: 'Extended journal version of [PADS](/publication/icpads14pads/).'
 
 tags:
   - "Wireless Sensing"
