@@ -28,7 +28,7 @@ featured: false
 
 url_pdf: 'https://www.dropbox.com/s/t931e50ppveqzoc/MobiSys18_Widar2.0_paper.pdf?dl=0'
 url_code: ''
-url_dataset: 'http://tns.thss.tsinghua.edu.cn/wifiradar/Widar2.0Project.zip'
+url_dataset: 'http://tns.thss.tsinghua.edu.cn/wifiradar'
 url_poster: ''
 url_project: ''
 url_slides: 'https://www.dropbox.com/s/i2f30pzf7qrzajq/MobiSys18_Widar2.0_slides.pptx?dl=0'
