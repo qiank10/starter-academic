@@ -1,5 +1,5 @@
 ---
-title: AIRCODE: Hidden Screen-Camera Communication on an Invisible and Inaudible Dual Channel
+title: "AIRCODE: Hidden Screen-Camera Communication on an Invisible and Inaudible Dual Channel"
 
 authors:
 - Kun Qian
