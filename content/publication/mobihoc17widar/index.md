@@ -27,12 +27,12 @@ featured: false
 
 url_pdf: 'https://www.dropbox.com/s/3eg1zmwkql7t07j/MobiHoc17_Widar_paper.pdf?dl=0'
 url_code: ''
-url_dataset: ''
+url_dataset: 'http://tns.thss.tsinghua.edu.cn/wifiradar'
 url_poster: ''
 url_project: ''
 url_slides: 'https://www.dropbox.com/s/eu30lbigqg1x9lr/MobiHoc17_Widar_slides.pptx?dl=0'
 url_source: ''
-url_video: ''
+url_video: 'https://www.youtube.com/watch?v=JSe4bXqH_Ow'
 
 image:
   caption: "Relation between velocity and path length change rate (PLCR)."
