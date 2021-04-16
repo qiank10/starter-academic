@@ -7,7 +7,7 @@ title: Publications
 subtitle: ""
 content:
   page_type: publication
-  count: 5
+  count: 0
   offset: 0
   order: desc
 design:
