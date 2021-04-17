@@ -7,9 +7,6 @@ title: News
 active: true
 design:
   columns: "2"
-  background:
-    text_color_light: true
-    image_darken: 0
 ---
 :loudspeaker: 2021/02 Our paper MVDNet got accepted by IEEE/CVF CVPR 2021.\
 :loudspeaker: 2020/10 Our paper MilliPoint got accepted by ACM IMWUT/UbiComp 2021.\
