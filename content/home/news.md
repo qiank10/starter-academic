@@ -8,10 +8,10 @@ active: true
 design:
   columns: "2"
   background:
-    text_color_light: false
+    text_color_light: true
     image_darken: 0
 ---
-<img src="/uploads/bullhorn.svg" width="20" height="20" style="float: left; margin-right 1em;"> 2021/02 Our paper MVDNet got accepted by IEEE/CVF CVPR 2021.\
+:loudspeaker: 2021/02 Our paper MVDNet got accepted by IEEE/CVF CVPR 2021.\
 :loudspeaker: 2020/10 Our paper MilliPoint got accepted by ACM IMWUT/UbiComp 2021.\
 :loudspeaker: 2020/09 M-Cube received Best Paper Award in ACM MobiCom 2020.\
 :loudspeaker: 2020/07 Our paper AIRCODE got conditionally accepted by Usenix NSDI 2021.\
