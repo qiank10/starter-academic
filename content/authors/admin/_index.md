@@ -15,7 +15,7 @@ social:
     link: https://github.com/qiank10
   - icon: cv
     icon_pack: ai
-    link: /media/resume_kunqian.pdf
+    link: /uploads/resume_kunqian.pdf
 organizations:
   - name: University of California San Diego
     url: ""
