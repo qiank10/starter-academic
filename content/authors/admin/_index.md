@@ -16,7 +16,7 @@ social:
   - icon: cv
     icon_pack: ai
     link: /uploads/resume_kunqian.pdf
-  - icon: rings-wedding
+  - icon: heart
     icon_pack: fas
     link: https://yifanzhou.info/
 organizations:
