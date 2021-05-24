@@ -17,7 +17,7 @@ social:
     icon_pack: ai
     link: /uploads/resume_kunqian.pdf
   - icon: heart
-    icon_pack: fas
+    icon_pack: far
     link: https://yifanzhou.info/
 organizations:
   - name: University of California San Diego
