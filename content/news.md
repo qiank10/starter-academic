@@ -2,6 +2,7 @@
 title: News
 date: "2014-01-01T00:00:00Z"
 ---
+:loudspeaker: 2021/05 Our paper RoS got accepted by ACM SIGCOMM 2021.\
 :loudspeaker: 2021/02 Our paper MVDNet got accepted by IEEE/CVF CVPR 2021.\
 :loudspeaker: 2020/10 Our paper MilliPoint got accepted by ACM IMWUT/UbiComp 2021.\
 :loudspeaker: 2020/09 M-Cube received Best Paper Award in ACM MobiCom 2020.\
