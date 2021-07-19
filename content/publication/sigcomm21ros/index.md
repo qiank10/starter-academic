@@ -37,7 +37,7 @@ url_source: ''
 url_video: ''
 
 image:
-  caption: "Experimental setup of RoS"
+  caption: "General working scenario of RoS."
   filename: featured
   focal_point: Smart
   preview_only: false
