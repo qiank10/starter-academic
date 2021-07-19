@@ -45,4 +45,5 @@ image:
 
 projects:
   - rf-smart-surface
+  - radar-based-autonomous-sensing
 ---
