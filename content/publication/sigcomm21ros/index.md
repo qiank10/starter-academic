@@ -44,5 +44,5 @@ image:
   preview_only: false
 
 projects:
-  - RF Smart Surface
+  - rf-smart-surface
 ---
