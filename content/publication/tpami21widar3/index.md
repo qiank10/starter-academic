@@ -1,5 +1,5 @@
 ---
-title: Widar3.0: Zero-Effort Cross-Domain Gesture Recognition with Wi-Fi
+title: "Widar3.0: Zero-Effort Cross-Domain Gesture Recognition with Wi-Fi"
 
 authors:
 - Yue Zheng
