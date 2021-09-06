@@ -30,7 +30,7 @@ tags:
 draft: false
 featured: false
 
-url_pdf: 'https://www.dropbox.com/s/17aoyqo3rkgp8e6/TPAMI21_Widar3_paper.pdf?dl=0'
+url_pdf: 'https://www.dropbox.com/s/d1htz1i81w2w9si/TPAMI21_Widar3.0_paper.pdf?dl=0'
 url_code: ''
 url_dataset: ''
 url_poster: ''
