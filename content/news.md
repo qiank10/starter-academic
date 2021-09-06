@@ -2,6 +2,7 @@
 title: News
 date: "2014-01-01T00:00:00Z"
 ---
+:loudspeaker: 2021/08 Extended version of "Widar3.0" (MobiSys'19) got accepted by IEEE TPAMI.\
 :loudspeaker: 2021/05 Our paper RoS got accepted by ACM SIGCOMM 2021.\
 :loudspeaker: 2021/02 Our paper MVDNet got accepted by IEEE/CVF CVPR 2021.\
 :loudspeaker: 2020/10 Our paper MilliPoint got accepted by ACM IMWUT/UbiComp 2021.\
@@ -10,9 +11,7 @@ date: "2014-01-01T00:00:00Z"
 :loudspeaker: 2020/06 Extended version of "FlowFlexDP" (Secon'18) got accepted by IEEE TMC.\
 :loudspeaker: 2019/12 Our paper M-Cube got conditionally accepted by ACM MobiCom 2020.\
 :loudspeaker: 2019/07 Our paper iVR got conditionally accepted by ACM IMWUT 2019.\
-:loudspeaker: 2019/04 Invited to serve on the TPC of [ACM S3 2019](https://s32019.blogs.rice.edu/).\
 :loudspeaker: 2019/03 Our paper Widar3.0 got conditionally accepted by ACM MobiSys 2019.\
-:loudspeaker: 2019/03 Invited to serve on the TPC of [IEEE ICPADS 2019](http://www.icpads2019.cn/).\
 :loudspeaker: 2018/03 Our paper FlowFlexDP got accepted by IEEE Secon 2018.\
 :loudspeaker: 2018/02 Our paper Widar2.0 got conditionally accepted by ACM MobiSys 2018.\
 :loudspeaker: 2017/11 Extended version of "D-MUSIC" (INFOCOM'16) got accepted by IEEE TMC.\
