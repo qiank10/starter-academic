@@ -2,8 +2,8 @@
 title: "Widar3.0: Zero-Effort Cross-Domain Gesture Recognition with Wi-Fi"
 
 authors:
-- Yue Zheng
 - Yi Zhang
+- Yue Zheng
 - Kun Qian
 - Guidong Zhang
 - Yunhao Liu
@@ -11,7 +11,7 @@ authors:
 - Zheng Yang
 author_notes:
   - 
-  - Yue Zheng and Yi Zhang are co-primary authors.
+  - Yi Zhang and Yue Zheng are co-primary authors.
 
 date: 2021-08-01T00:00:00.000Z
 doi: ""
