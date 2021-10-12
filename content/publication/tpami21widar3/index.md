@@ -24,9 +24,6 @@ publication_short: In IEEE TPAMI
 
 abstract: 'Extended journal version of [Widar3.0](/publication/mobisys19widar3/).'
 
-tags:
-  - "Wireless Sensing"
-
 draft: false
 featured: false
 
