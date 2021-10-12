@@ -21,9 +21,6 @@ publication_short: In IEEE TMC
 
 abstract: 'Extended journal version of [FlowFlexDP](/publication/secon18flowflexdp/).'
 
-tags:
-  - "Mobile Computing"
-
 draft: false
 featured: false
 
