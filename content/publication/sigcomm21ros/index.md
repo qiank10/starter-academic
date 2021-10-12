@@ -22,9 +22,6 @@ publication_short: In ACM SIGCOMM
 
 abstract: "Modern autonomous vehicles are commonly instrumented with radars for all-weather perception. Yet the radar functionality is limited to identifying the positions of reflectors in the environment. In this paper, we investigate the feasibility of smartening transportation infrastructure for the purpose of conveying richer information to automotive radars. We propose RoS, a passive PCB-fabricated surface which can be mechanically reconfigured to embed digital bits, and inform the radar much like visual road signs do to cameras. We design the RoS signage to act as a retrodirective reflector which can reflect signals back to the radar from wide viewing angles. We further introduce a spatial encoding scheme, which piggybacks information in the reflected analog signals based on the geometrical layout of the retroreflective elements. Our prototype fabrication and experimentation verifies the effectiveness of RoS as an RF barcode which is readable by radar in practical transportation environment"
 
-tags:
-  - "Wireless Sensing"
-
 draft: false
 featured: false
 
@@ -43,7 +40,4 @@ image:
   focal_point: Smart
   preview_only: false
 
-projects:
-  - rf-smart-surface
-  - radar-based-autonomous-sensing
 ---
