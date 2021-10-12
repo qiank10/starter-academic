@@ -16,7 +16,7 @@ social:
     link: https://github.com/qiank10
   - icon: cv
     icon_pack: ai
-    link: /uploads/resume_kunqian.pdf
+    link: https://www.dropbox.com/s/m2z9b563rhj3e8i/CV.pdf?dl=0
   - icon: heart
     icon_pack: fas
     link: https://yifanzhou.info/
