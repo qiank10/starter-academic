@@ -20,9 +20,6 @@ publication_short: In ACM TECS
 
 abstract: 'Extended journal version of [PADS](/publication/icpads14pads/).'
 
-tags:
-  - "Wireless Sensing"
-
 draft: false
 featured: false
 
@@ -41,6 +38,4 @@ image:
   focal_point: Smart
   preview_only: false
 
-projects:
-- human-oriented-wireless-sensing
 ---
