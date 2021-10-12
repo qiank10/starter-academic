@@ -20,10 +20,6 @@ publication_short: In IEEE TMC
 
 abstract: 'Extended journal version of [D-MUSIC](/publication/infocom16dmusic/).'
 
-tags:
-  - "Wireless Sensing"
-  - "Mobile Computing"
-
 draft: false
 featured: false
 
