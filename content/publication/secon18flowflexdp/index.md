@@ -22,9 +22,6 @@ publication_short: In IEEE SECON
 
 abstract: 'Accurate forecast of citywide passenger demand helps online car-hailing service providers to better schedule driver supplies. Previous research either uses only passenger order history and fails to capture the deep dependency of passenger demand, or is restricted on grid region partition that loses physical context. Recent advance in mobile traffic analysis has fostered understanding of city functions. In this paper, we propose FlowFlexDP, a demand prediction model that integrates regional crowd flow and applies to flexible region partition. Analysis on a cellular dataset covering 1.5 million users in a major city in China reveals strong correlation between passenger demand and crowd flow. FlowFlexDP extracts both order history and crowd flow from cellular data, and adopts Graph Convolutional Neural Network to adapt prediction for regions of arbitrary shapes and sizes in a city. Evaluation on a large scale data set of DiDi Chuxing from cellular data shows that FlowFlexDP accurately predicts passenger demand and outperforms the state-of-the-art demand prediction methods.'
 
-tags:
-  - "Mobile Computing"
-
 draft: false
 featured: false
 
