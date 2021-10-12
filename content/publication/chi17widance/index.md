@@ -21,7 +21,6 @@ publication_short: In ACM CHI
 abstract: 'In-air interaction acts as a key enabler for ambient intelligence and augmented reality. As an increasing popular example, exergames, and the alike gesture recognition applications, have attracted extensive research in designing accurate, pervasive and low-cost user interfaces. Recent advances in wireless sensing show promise for a ubiquitous gesture-based interaction interface with Wi-Fi. In this work, we extract complete information of motion-induced Doppler shifts with only commodity Wi-Fi. The key insight is to harness antenna diversity to carefully eliminate random phase shifts while retaining relevant Doppler shifts. We further correlate Doppler shifts with motion directions, and propose a light-weight pipeline to detect, segment, and recognize motions without training. On this basis, we present WiDance, a Wi-Fi-based user interface, which we utilize to design and prototype a contactless dance-pad exergame. Experimental results in typical indoor environment demonstrate a superior performance with an accuracy of 92%, remarkably outperforming prior approaches.'
 
 tags:
-  - "Wireless Sensing"
 
 draft: false
 featured: false
@@ -42,6 +41,5 @@ image:
   preview_only: false
   
 projects:
-- human-oriented-wireless-sensing
 ---
 <span style="color:red"><strong>Honorable Mention Award, top 5% submission</strong></span>
