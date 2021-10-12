@@ -4,8 +4,9 @@ role: Postdoctoral Researcher
 avatar_filename: avatar.jpg
 bio: My research interests include mobile computing and wireless sensing
 interests:
+  - IoT Sensing
   - Mobile Computing
-  - Wireless Sensing
+  - Wireless Networking
 social:
   - icon: google-scholar
     icon_pack: ai
