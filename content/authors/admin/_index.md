@@ -2,7 +2,7 @@
 title: Kun Qian
 role: Postdoctoral Researcher
 avatar_filename: avatar.jpg
-bio: My research interests include mobile computing and wireless sensing
+bio: My research interests include IoT sensing, mobile computing, and wireless networking.
 interests:
   - IoT Sensing
   - Mobile Computing
