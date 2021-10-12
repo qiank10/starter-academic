@@ -20,10 +20,6 @@ publication_short: In IEEE INFOCOM
 
 abstract: 'Modern mobile devices are equipped with multiple antennas, which brings various wireless sensing applications such as accurate localization, contactless human detection and wireless human-device interaction. A key enabler for these applications is phased array signal processing, especially Angle of Arrival (AoA) estimation. However, accurate AoA estimation on commodity devices is non-trivial due to limited number of antennas and uncertain phase offsets. Previous works either rely on elaborate calibration or involve contrived human interactions. In this paper, we aim to enable practical AoA measurements on commodity off-the-shelf (COTS) mobile devices. The key insight is to involve users’ natural rotation to formulate a virtual spatial-temporal antenna array and conduce a relative incident signal of measurements at two orientations. Then by taking the differential phase, it is feasible to remove the phase offsets and derive the accurate AoA of the equivalent incoming signal, while the rotation angle can also be captured by built-in inertial sensors. On this basis, we propose Differential MUSIC (D-MUSIC), a relative form of the standard MUSIC algorithm that eliminates the unknown phase offsets and achieves accurate AoA estimation on COTS mobile devices with only one rotation. We further extend D-MUSIC to 3-D space and fortify it in multipath-rich scenarios. We prototype D-MUSIC on commodity WiFi infrastructure and evaluate it in typical indoor environments. Experimental results demonstrate a superior performance with an average AoA estimation error of 13◦ . Requiring no modifications or calibration, D-MUSIC is envisioned as a promising scheme for practical AoA estimation on COTS mobile devices.'
 
-tags:
-  - "Wireless Sensing"
-  - "Mobile Computing"
-
 draft: false
 featured: false
 
