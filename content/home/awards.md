@@ -19,4 +19,4 @@ design:
 :trophy: Beijing Outstanding Graduate Award (B.Sc.), 2014\
 :trophy: Tsinghua Outstanding Graduate Thesis, 2014\
 :trophy: Tsinghua "December 9th" Scholarship, 2013\
-:trophy: National Scholarship, 2012\
+:trophy: National Scholarship, 2012
