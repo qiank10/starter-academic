@@ -1,29 +1,31 @@
 ---
-title: "MilliPoint: 3D Printed Reflecting Surface for Millimeter-Wave Coverage Expansion"
+title: "RoS: Passive Smart Surface for Roadside-to-Vehicle Communication"
 
 authors:
+  - John Nolan
   - Kun Qian
-  - Lulu Yao
   - Xinyu Zhang
-  - Tse Nga Ng
+author_notes:
+  - 
+  - John Nolan and Kun Qian are co-primary authors.
 
-date: 2022-10-01T04:00:38.330Z
+date: 2021-08-23T04:00:38.330Z
 doi: ""
 
-publishDate: 2022-01-30T04:00:38.330Z
+publishDate: 2021-07-17T04:00:38.330Z
 
 publication_types:
   - "1"
 
-publication: In Proceedings of ACM MobiCom 2022
-publication_short: In ACM MobiCom
+publication: In Proceedings of ACM SIGCOMM 2021
+publication_short: In ACM SIGCOMM
 
-abstract: "Next generation wireless networks embrace mmWave technology for its high capacity. Yet, mmWave radios bear a fundamental coverage limitation due to the high directionality and propagation artifacts. In this paper, we explore an economical paradigm based on 3D printing technology for mmWave coverage expansion. We propose MilliPoint, a fully passive metasurface, which can reshape and resteer mmWave beams to anomalous directions to illuminate the coverage blind spots. We develop a closed-form model to efficiently synthesize the MilliPoint design with thousands of unit elements and across a wide frequency band. We further develop an economical process based on 3D printing and metal deposition to fabricate MilliPoint. Our field test results show that MilliPoint can effectively fill the coverage holes and operate transparently to the standard mmWave beam management protocols."
+abstract: "Modern autonomous vehicles are commonly instrumented with radars for all-weather perception. Yet the radar functionality is limited to identifying the positions of reflectors in the environment. In this paper, we investigate the feasibility of smartening transportation infrastructure for the purpose of conveying richer information to automotive radars. We propose RoS, a passive PCB-fabricated surface which can be mechanically reconfigured to embed digital bits, and inform the radar much like visual road signs do to cameras. We design the RoS signage to act as a retrodirective reflector which can reflect signals back to the radar from wide viewing angles. We further introduce a spatial encoding scheme, which piggybacks information in the reflected analog signals based on the geometrical layout of the retroreflective elements. Our prototype fabrication and experimentation verifies the effectiveness of RoS as an RF barcode which is readable by radar in practical transportation environment"
 
 draft: false
 featured: false
 
-url_pdf: 'https://www.dropbox.com/s/hjb92zty0wjfw2d/MobiCom22_MilliPoint_paper.pdf?dl=0'
+url_pdf: 'https://www.dropbox.com/s/hjb92zty0wjfw2d/SIGCOMM21_RoS_paper.pdf?dl=0'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -33,9 +35,7 @@ url_source: ''
 url_video: ''
 
 image:
-  caption: "MilliMirror and one of its representative use case, the outdoor-to-indoor coverage expansion."
+  caption: "General working scenario of RoS."
   filename: featured
   focal_point: Smart
   preview_only: false
-
----
