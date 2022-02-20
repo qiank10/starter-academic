@@ -1,5 +1,5 @@
 ---
-title: "MilliPoint: 3D Printed Reflecting Surface for Millimeter-Wave Coverage Expansion"
+title: "MilliMirror: 3D Printed Reflecting Surface for Millimeter-Wave Coverage Expansion"
 
 authors:
   - Kun Qian
